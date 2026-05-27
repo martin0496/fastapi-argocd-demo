@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: fastapi
-          image: mahdi041196/fastapi-users:1.0
+          image: mahdi041196/fastapi-users:1.1
           ports:
             - containerPort: 8000
